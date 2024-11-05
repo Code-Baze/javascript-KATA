@@ -17,3 +17,4 @@ Infinity;
 NaN;
 true;
 false;
+'abc'; "Hello, world";
