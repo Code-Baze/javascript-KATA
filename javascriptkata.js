@@ -16,3 +16,4 @@ Infinity;
 -Infinity;
 NaN;
 true;
+false;
