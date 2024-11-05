@@ -20,3 +20,4 @@ false;
 'abc'; "Hello, world";
 !true;
 !false;
+1 === 1
