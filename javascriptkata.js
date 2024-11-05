@@ -15,3 +15,4 @@
 Infinity;
 -Infinity;
 NaN;
+true;
