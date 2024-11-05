@@ -19,3 +19,4 @@ true;
 false;
 'abc'; "Hello, world";
 !true;
+!false;
