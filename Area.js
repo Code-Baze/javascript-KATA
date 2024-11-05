@@ -5,8 +5,6 @@ function calculateArea (width, height) {
     result = width * height;
     return result;
 
-
-    
 }
 
 //Calling the function
